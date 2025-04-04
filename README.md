@@ -69,5 +69,5 @@ my name is Andrii. I love full-stack and AI developing and have more than 2 year
 - **Email:** [maison78901@gmail.com]
 
   <div align="center">
-  <img height="350" src="https://github.com/user-attachments/assets/dea71af0-2a8c-4de5-b1a4-f97c5efd1c5c"  />
+  <img height="350" src="https://i.imgur.com/tTqzwEj.jpg"  />
 </div>
