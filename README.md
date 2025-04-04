@@ -8,14 +8,14 @@ my name is Andrii. I love full-stack and AI developing and have more than 2 year
   <tr>
     <td align="center">
       <a href="http://rightvision.io/">
-        <img src="https://i.imgur.com/E0E9pqT.jpg" alt="rightvision(web-3)" width="700"><br/>
+        <img src="https://i.imgur.com/i6aAvFn.jpg" alt="rightvision(web-3)" width="680"><br/>
         <b>rightvision(web-3)</b>
       </a>
       <p>crypto ecosystem with telegram bot and website</p>
     </td>
     <td align="center">
       <a href="https://tdrproject.netlify.app/">
-        <img src="https://i.imgur.com/mEfdSHJ.jpg" alt="emotion recognition" width="700"><br/>
+        <img src="https://i.imgur.com/OgqxTd2.jpg" alt="emotion recognition" width="700"><br/>
         <b>emotion recognition</b>
       </a>
       <p>using computer vision recognize human emotions</p>
@@ -24,7 +24,7 @@ my name is Andrii. I love full-stack and AI developing and have more than 2 year
   <tr>
     <td align="center" colspan="2">
       <a href="">
-        <img src="https://i.imgur.com/1zKsv1c.jpg" alt="ai chatbot(soon)" width="800"><br/>
+        <img src="https://i.imgur.com/CGTqIHe.jpg" alt="ai chatbot(soon)" width="800"><br/>
         <b>ai chatbot(soon)</b>
       </a>
       <p>personalized AI assistant</p>
@@ -32,6 +32,42 @@ my name is Andrii. I love full-stack and AI developing and have more than 2 year
   </tr>
 </table>
 
+### Skills
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" height="40" alt="vue logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="js logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/pandas.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/scikitlearn.svg" height="40" alt="scikit-learn logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+</div>
+
+
+
 ## Contact me!
 
 - **Email:** [maison78901@gmail.com]
+
+  <div align="center">
+  <img height="350" src="https://github.com/user-attachments/assets/dea71af0-2a8c-4de5-b1a4-f97c5efd1c5c"  />
+</div>
