@@ -7,13 +7,6 @@ my name is Andrii. I love full-stack and AI developing and have more than 2 year
 <table>
   <tr>
     <td align="center">
-      <a href="http://rightvision.io/">
-        <img src="https://i.imgur.com/i6aAvFn.jpg" alt="rightvision(web-3)" width="680"><br/>
-        <b>rightvision(web-3)</b>
-      </a>
-      <p>crypto ecosystem with telegram bot and website</p>
-    </td>
-    <td align="center">
       <a href="https://tdrproject.netlify.app/">
         <img src="https://i.imgur.com/OgqxTd2.jpg" alt="emotion recognition" width="700"><br/>
         <b>emotion recognition</b>
@@ -22,7 +15,7 @@ my name is Andrii. I love full-stack and AI developing and have more than 2 year
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="2">
+    <td align="center">
       <a href="">
         <img src="https://i.imgur.com/CGTqIHe.jpg" alt="ai chatbot(soon)" width="800"><br/>
         <b>ai chatbot(soon)</b>
