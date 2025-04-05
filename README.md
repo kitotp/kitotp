@@ -18,7 +18,7 @@ my name is Andrii. I love full-stack and AI developing and have more than 2 year
     <td align="center">
       <a href="https://otton.netlify.app/">
         <img src="https://i.imgur.com/CGTqIHe.jpg" alt="ai chatbot(soon)" width="800"><br/>
-        <b>ai chatbot(soon)</b>
+        <b>ai chatbot(in development)</b>
       </a>
       <p>personalized AI assistant</p>
     </td>
