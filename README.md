@@ -23,6 +23,15 @@ my name is Andrii. I love full-stack and AI developing and have more than 2 year
       <p>personalized AI assistant</p>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <a href="https://rvision.netlify.app/">
+        <img src="https://imgur.com/KAOQHxy" alt="decentralized crypto project" width="800"><br/>
+        <b>decentralized ai project</b>
+      </a>
+      <p>frontend for crypto project</p>
+    </td>
+  </tr>
 </table>
 
 ### Skills
