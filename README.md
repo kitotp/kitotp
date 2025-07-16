@@ -1,6 +1,6 @@
 # hey! I'm full-stack and AI developer.
 
-my name is Andrii. I love full-stack and AI developing and have more than 2 years of experience. Below you can see some of my projects and try them out.
+my name is Andrii. below you can see some of my projects and try them out.
 
 ## Projects 
 
