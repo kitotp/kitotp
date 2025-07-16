@@ -12,6 +12,7 @@ my name is Andrii. below you can see some of my projects and try them out.
         <b>emotion recognition</b>
       </a>
       <p>using computer vision recognize human emotions</p>
+      <p>project currently turned off.</p>
     </td>
   </tr>
   <tr>
@@ -21,6 +22,7 @@ my name is Andrii. below you can see some of my projects and try them out.
         <b>ai chatbot(in development)</b>
       </a>
       <p>personalized AI assistant</p>
+      <p>project currently turned off.</p>
     </td>
   </tr>
   <tr>
