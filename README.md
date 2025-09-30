@@ -34,7 +34,7 @@ my name is Andrii. below you can see some of my projects and try them out.
   <img width="12" />
 </div>
 
-## Projects 
+## Pet Projects 
 
 <table>
   <tr>
@@ -51,19 +51,10 @@ my name is Andrii. below you can see some of my projects and try them out.
     <td align="center">
       <a href="https://otton.netlify.app/">
         <img src="https://i.imgur.com/CGTqIHe.jpg" alt="ai chatbot(soon)" width="800"><br/>
-        <b>ai chatbot(in development)</b>
+        <b>ai chatbot</b>
       </a>
       <p>personalized AI assistant</p>
       <p>project currently turned off.</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://rvision.netlify.app/">
-        <img src="https://i.imgur.com/KAOQHxy.png" alt="decentralized crypto project" width="800"><br/>
-        <b>decentralized ai project</b>
-      </a>
-      <p>frontend for crypto project</p>
     </td>
   </tr>
 </table>
