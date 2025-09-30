@@ -1,4 +1,4 @@
-# hey! I'm full-stack and AI developer.
+# hey! I'm frontend and AI developer.
 
 my name is Andrii. below you can see some of my projects and try them out.
 
