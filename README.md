@@ -67,6 +67,4 @@ my name is Andrii. below you can see some of my projects and try them out.
 
 - **Email:** [maison78901@gmail.com]
 
-  <div align="center">
-  <img height="350" src="https://i.imgur.com/tTqzwEj.jpg"  />
 </div>
