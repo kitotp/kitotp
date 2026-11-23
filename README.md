@@ -56,6 +56,6 @@
 
 ## Contact me!
 
-- **Email:** [maison78901@gmail.com]
+- **Email:** [andri.slyva@gmail.com]
 
 </div>
