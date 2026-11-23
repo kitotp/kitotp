@@ -1,6 +1,5 @@
-# hey! I'm frontend and AI developer.
+# hey! my name is Andrii and I am a full-stack dev.
 
-my name is Andrii. below you can see some of my projects and try them out.
 
 ### Skills
 <div align="left">
